@@ -1,2 +1,2 @@
-# PyQt5
-To mark down my learing about PyQt5
+# Learning
+To mark down my learing
